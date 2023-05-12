@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TicsItsoeh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FB639A1865C4951B2BA923721D77388 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EAC3C60114541748D0C9C63E6F58C0D }}
